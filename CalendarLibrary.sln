@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarLibrary", "CalendarLibrary\CalendarLibrary.csproj", "{76038AAB-6212-456B-B28A-AFEE72F916C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarWebAPI", "CRUDWebAPI\CalendarWebAPI.csproj", "{9B20A4D5-9EB1-44ED-9A80-4796F7D75DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarForm", "CalendarForm\CalendarForm.csproj", "{D3ED51BE-EBCE-4D20-8E9A-73B8FC02620A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76038AAB-6212-456B-B28A-AFEE72F916C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76038AAB-6212-456B-B28A-AFEE72F916C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76038AAB-6212-456B-B28A-AFEE72F916C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76038AAB-6212-456B-B28A-AFEE72F916C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B20A4D5-9EB1-44ED-9A80-4796F7D75DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B20A4D5-9EB1-44ED-9A80-4796F7D75DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B20A4D5-9EB1-44ED-9A80-4796F7D75DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B20A4D5-9EB1-44ED-9A80-4796F7D75DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3ED51BE-EBCE-4D20-8E9A-73B8FC02620A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ED51BE-EBCE-4D20-8E9A-73B8FC02620A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ED51BE-EBCE-4D20-8E9A-73B8FC02620A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ED51BE-EBCE-4D20-8E9A-73B8FC02620A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12AC4FB-00DB-4D44-9430-EEF957613F96}
+	EndGlobalSection
+EndGlobal
