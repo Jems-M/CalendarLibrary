@@ -363,4 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Connection string files
-cstrings.config
+/CalendarLibrary/cstrings.config
+/CalendarWebAPI/cstrings.config
